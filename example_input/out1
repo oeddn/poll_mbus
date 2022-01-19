@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MBusData>
+
+    <SlaveInformation>
+        <Id>1257095</Id>
+        <Manufacturer>@QP</Manufacturer>
+        <Version>1</Version>
+        <ProductName></ProductName>
+        <Medium>Electricity</Medium>
+        <AccessNumber>85</AccessNumber>
+        <Status>00</Status>
+        <Signature>0000</Signature>
+    </SlaveInformation>
+
+    <DataRecord id="0">
+        <Function>Instantaneous value</Function>
+        <StorageNumber>0</StorageNumber>
+        <Unit>Energy (10 Wh)</Unit>
+        <Value>25152</Value>
+        <Timestamp>2021-12-29T12:48:54Z</Timestamp>
+    </DataRecord>
+
+    <DataRecord id="1">
+        <Function>Instantaneous value</Function>
+        <StorageNumber>0</StorageNumber>
+        <Unit>Energy (10 Wh)</Unit>
+        <Value>25149</Value>
+        <Timestamp>2021-12-29T12:48:54Z</Timestamp>
+    </DataRecord>
+
+    <DataRecord id="2">
+        <Function>Instantaneous value</Function>
+        <StorageNumber>0</StorageNumber>
+        <Unit>Energy (10 Wh)</Unit>
+        <Value>3</Value>
+        <Timestamp>2021-12-29T12:48:54Z</Timestamp>
+    </DataRecord>
+
+    <DataRecord id="3">
+        <Function>Instantaneous value</Function>
+        <StorageNumber>0</StorageNumber>
+        <Unit>Energy (10 Wh)</Unit>
+        <Value>25152</Value>
+        <Timestamp>2021-12-29T12:48:54Z</Timestamp>
+    </DataRecord>
+
+    <DataRecord id="4">
+        <Function>Instantaneous value</Function>
+        <StorageNumber>0</StorageNumber>
+        <Unit>Energy (10 Wh)</Unit>
+        <Value>0</Value>
+        <Timestamp>2021-12-29T12:48:54Z</Timestamp>
+    </DataRecord>
+
+    <DataRecord id="5">
+        <Function>Instantaneous value</Function>
+        <StorageNumber>0</StorageNumber>
+        <Unit>Energy (10 Wh)</Unit>
+        <Value>0</Value>
+        <Timestamp>2021-12-29T12:48:54Z</Timestamp>
+    </DataRecord>
+
+    <DataRecord id="6">
+        <Function>Instantaneous value</Function>
+        <StorageNumber>0</StorageNumber>
+        <Unit>dimensionless / no VIF</Unit>
+        <Value>2417</Value>
+        <Timestamp>2021-12-29T12:48:54Z</Timestamp>
+    </DataRecord>
+
+    <DataRecord id="7">
+        <Function>Instantaneous value</Function>
+        <StorageNumber>0</StorageNumber>
+        <Unit>dimensionless / no VIF</Unit>
+        <Value>104</Value>
+        <Timestamp>2021-12-29T12:48:54Z</Timestamp>
+    </DataRecord>
+
+    <DataRecord id="8">
+        <Function>Instantaneous value</Function>
+        <StorageNumber>0</StorageNumber>
+        <Unit>dimensionless / no VIF</Unit>
+        <Value>2312</Value>
+        <Timestamp>2021-12-29T12:48:54Z</Timestamp>
+    </DataRecord>
+
+    <DataRecord id="9">
+        <Function>Instantaneous value</Function>
+        <StorageNumber>0</StorageNumber>
+        <Unit>dimensionless / no VIF</Unit>
+        <Value>2417</Value>
+        <Timestamp>2021-12-29T12:48:54Z</Timestamp>
+    </DataRecord>
+
+    <DataRecord id="10">
+        <Function>Instantaneous value</Function>
+        <StorageNumber>0</StorageNumber>
+        <Unit>dimensionless / no VIF</Unit>
+        <Value>0</Value>
+        <Timestamp>2021-12-29T12:48:54Z</Timestamp>
+    </DataRecord>
+
+    <DataRecord id="11">
+        <Function>Instantaneous value</Function>
+        <StorageNumber>0</StorageNumber>
+        <Unit>dimensionless / no VIF</Unit>
+        <Value>0</Value>
+        <Timestamp>2021-12-29T12:48:54Z</Timestamp>
+    </DataRecord>
+
+</MBusData>
